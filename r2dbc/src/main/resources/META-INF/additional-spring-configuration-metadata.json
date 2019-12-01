@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "r2dbc",
+  "type": "com.user.r2dbc.configs.R2DBCConfigurationProperties",
+  "description": "R2DBC Connection properties"
+}]}

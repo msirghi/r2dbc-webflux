@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "r2dbc",
+      "type": "com.user.r2dbc.configs.R2DBCConfigurationProperties",
+      "sourceType": "com.user.r2dbc.configs.R2DBCConfigurationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "r2dbc",
+      "type": "com.user.r2dbc.configs.R2DBCConfigurationProperties",
+      "description": "R2DBC Connection properties"
+    },
+    {
+      "name": "r2dbc.password",
+      "type": "java.lang.String",
+      "sourceType": "com.user.r2dbc.configs.R2DBCConfigurationProperties"
+    },
+    {
+      "name": "r2dbc.url",
+      "type": "java.lang.String",
+      "sourceType": "com.user.r2dbc.configs.R2DBCConfigurationProperties"
+    },
+    {
+      "name": "r2dbc.user",
+      "type": "java.lang.String",
+      "sourceType": "com.user.r2dbc.configs.R2DBCConfigurationProperties"
+    }
+  ],
+  "hints": []
+}
